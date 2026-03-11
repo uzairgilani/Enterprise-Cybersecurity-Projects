@@ -38,3 +38,7 @@ Used John the Ripper with rockyou wordlist to crack password hashes.
 
 ## Result
 Successfully cracked user passwords using dictionary attack techniques.
+Password cracked: msfadmin
+Service: SSH
+Target: Metasploitable2
+Attack type: Hydra brute force
